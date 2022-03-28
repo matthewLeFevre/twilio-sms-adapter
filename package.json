@@ -29,5 +29,8 @@
   },
   "files": [
     "dist/**/*"
-  ]
+  ],
+  "dependencies": {
+    "twilio": "^3.74.0"
+  }
 }
