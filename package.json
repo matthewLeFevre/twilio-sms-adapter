@@ -1,6 +1,6 @@
 {
-  "name": "@everlast-brands/package-starter",
-  "version": "0.1.1",
+  "name": "twilio-sms-adapter",
+  "version": "0.1.0",
   "description": "Template project used to quickly create typescript npm packages.",
   "main": "dist/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "Typescript"
   ],
   "author": "Matthew Lefevre",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EverlastBrands/package-starter/issues"
   },
